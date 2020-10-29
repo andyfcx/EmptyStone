@@ -1,0 +1,6 @@
+.idea
+.vscode
+*/__pycache__
+gcskeyfile.json
+*.pyc
+db.sqlite3
